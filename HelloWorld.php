@@ -12,4 +12,9 @@ class HelloWorld
     {
         echo 'Hello World.';
     }
+
+    public function addExclamation()
+    {
+        echo '!';
+    }
 }
